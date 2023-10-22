@@ -1,0 +1,11 @@
+Username,Password,FirstName,LastName,StreetAddress,City,arrive,depart,seatType,seatPref,numPassengers,pass1,creditCard,expDate
+Nil1,123,Nil,Trokvis,pr. oktyabry,ufa,Denver,Zurich,Coach,None,1,Nil,123345345,12/25
+pit,234,Pit,Brit,Central Street,Atlantis,Frankfurt,Sydney,Business,Window,1,Pit,123333345,12/11
+kit,345,Kity,Brest,Koroleva,Minsk,London,Seattle,First,Aisle,1,Kity,113345345,01/25
+track,567,Ben,Polo,Pravdy,Moscow,Los Angeles,San Francisco,First,None,1,Ben,123345311,10/25
+pok,777,Pokau,Prot,Mendeleyeva,Rostov,Paris,Portland,Business,None,1,Pokau,123341145,12/21
+set,888,Sveta,Popova,Umnaya street,Kursk,Portland,Paris,Coach,Window,1,Sveta,123345345,12/12
+seven,555,Petr,Petrov,Yagodnaya street,Vladivostok,San Francisco,Los Angeles,First,Window,1,Petr,165345345,12/09
+itok,444,Kiril,Utov,Mira street,Kostroma,Seattle,London,Business,Aisle,1,Kiril,165345309,12/01
+look,333,Anyta,Ivanova,Naberezhnaya street,Ivanovo,Sydney,Frankfurt,Coach,Aisle,1,Anyta,225345345,12/11
+fatal,876,Lipa,Dua,Kuznetsova street,Samara,Zurich,Denver,Business,Window,1,Lipa,165445345,12/02
